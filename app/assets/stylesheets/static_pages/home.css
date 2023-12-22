@@ -1,0 +1,11 @@
+.container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+
+.title {
+  color: #6c757d;
+}

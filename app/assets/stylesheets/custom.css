@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: #6c757d;
+}/*# sourceMappingURL=custom.css.map */
+
+.main {
+  position: relative;
+  height: 100%;
+  margin: 0 10%;
+}
